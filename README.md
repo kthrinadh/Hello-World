@@ -1,2 +1,3 @@
 # Hello-World
-First own repository
+First repository
+This repo is just for practice.
